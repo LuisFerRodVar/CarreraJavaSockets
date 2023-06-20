@@ -1,0 +1,5 @@
+Lucas:34:13:Postre:56:
+Pascual:78:45:Loco:99:
+Luz:34:12:Lux:89:
+Maicol:50:12:RashoDeLuz:100:
+Caballo:67:34:Fugaz:50:
