@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * Esta clase funciona para instanciar personas que funcionan como clientes
  *
  * @version 1.0
- * @author Nancy,Adrian,Luis
+ * @author LuisF
  */
 public class Person {
     private Socket socket;
